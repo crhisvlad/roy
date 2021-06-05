@@ -1,0 +1,54 @@
+body{
+
+    font-family: 'KoHo', sans-serif;
+    
+    background-color: rgba(11,99,130,0.9220063025210083);
+
+    
+}
+
+nav #b{
+color: white;
+}
+
+nav .navbar-brand{
+    color: white;
+    }
+
+nav .nav-link{
+    color: rgba(255, 203, 155,1);
+}
+
+h1{
+    text-align: center;
+color: white;
+}
+
+h3{
+    text-align: center;
+color: white;
+
+}
+
+nav{
+
+    background-color: rgba(134, 134, 134, 0.452);;
+
+}
+
+p{
+    color: white;
+}
+
+footer{
+    background-color: rgba(147, 147, 134, 1);
+    color: white;
+}
+
+footer #enl{
+    color:white;
+}
+
+div .contenido{
+    background: rgba(147, 147, 134, 1);
+}
